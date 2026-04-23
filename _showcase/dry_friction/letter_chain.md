@@ -1,7 +1,7 @@
 ---
 show: true
-width: 4
-date: 2026-04-20 00:01:00 +0800
+width: 6
+date: 2026-04-17 00:01:00 +0800
 group: Dry Friction
 ---
 <video autoplay muted loop class="w-100 rounded-xl" src="{{ '/assets/videos/letter_chain.mp4' | relative_url }}">
